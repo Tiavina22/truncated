@@ -1,4 +1,4 @@
-# TruncatedText
+# Truncated
 
 `Truncated` is a simple Flutter widget that truncates long text and appends an ellipsis or any custom suffix. It supports expanding the text with a tap and provides smooth animation for opening and closing the text.
 
