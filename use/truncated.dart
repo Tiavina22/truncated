@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:truncated_text/truncated_text.dart';
+import 'package:truncated/truncated.dart';
 
 void main() {
   runApp(const MyApp());

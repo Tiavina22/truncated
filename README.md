@@ -1,6 +1,6 @@
 # TruncatedText
 
-`TruncatedText` is a simple Flutter widget that truncates long text and appends an ellipsis or any custom suffix. It supports expanding the text with a tap and provides smooth animation for opening and closing the text.
+`Truncated` is a simple Flutter widget that truncates long text and appends an ellipsis or any custom suffix. It supports expanding the text with a tap and provides smooth animation for opening and closing the text.
 
 ## Features
 
@@ -12,11 +12,11 @@
 
 ## Installation
 
-Add `truncated_text` to your `pubspec.yaml` file:
+Add `truncated` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  truncated_text: ^0.0.1 # Replace with the latest version
+  truncated: ^0.0.1 # Replace with the latest version
 ```
 
 ## You can use
@@ -24,7 +24,7 @@ dependencies:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:truncated_text/truncated_text.dart';
+import 'package:truncated_text/truncated.dart';
 
 void main() {
   runApp(const MyApp());
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text('Truncated Text Example')),
+        appBar: AppBar(title: const Text('Truncated Example')),
         body: const Padding(
           padding: EdgeInsets.all(16.0),
           child: TruncatedText(

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:truncated_text/truncated_text.dart';
+import 'package:truncated/truncated.dart';
 
 void main() {
   testWidgets('TruncatedText widget truncates and expands',
