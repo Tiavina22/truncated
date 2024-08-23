@@ -1,7 +1,7 @@
 name: truncated
 description: "A Dart and Flutter widget to truncate long text and append ellipsis"
 version: 0.0.2
-homepage: "https://github.com/Tiavina22/truncated_text"
+homepage: "https://github.com/Tiavina22/truncated"
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
