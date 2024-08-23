@@ -24,7 +24,7 @@ dependencies:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:truncated_text/truncated.dart';
+import 'package:truncated/truncated.dart';
 
 void main() {
   runApp(const MyApp());
@@ -69,10 +69,11 @@ class MyApp extends StatelessWidget {
 
 ## 0.0.2
 - Factoring
+- Update Readme
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or a pull request for any improvements or fixes.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT Licensea
