@@ -67,6 +67,9 @@ class MyApp extends StatelessWidget {
 + initiallyExpanded: Whether the text is initially expanded (default is false)
 + animationDuration: Duration of the expand/collapse animation (default is const Duration(milliseconds: 200))
 
+## 0.0.2
+- Factoring
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or a pull request for any improvements or fixes.
