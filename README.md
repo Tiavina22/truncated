@@ -16,7 +16,7 @@ Add `truncated` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  truncated: ^0.0.1 # Replace with the latest version
+  truncated: ^0.0.2 # Replace with the latest version
 ```
 
 ## You can use
